@@ -1,5 +1,5 @@
 # Bitcoin Prediction Project
-Bitcoin Hackathon Project - Predicting Bitcoin close prices through Machine Learning. 
+Bitcoin Hackathon Project - Predicting *daily Bitcoin close prices* from December, 2018 to March, 2019 through Machine Learning. 
 
 Process: Did ensemble recursive feature engineering with: Linear Regression, Ridge Regression, Lasso Regression, Random Forest, Ada Boost and Gradient Boosting.
 
